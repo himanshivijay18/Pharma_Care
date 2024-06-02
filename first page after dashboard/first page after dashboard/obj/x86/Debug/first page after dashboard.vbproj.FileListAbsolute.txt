@@ -1,0 +1,9 @@
+G:\bca\sem2\technovation\first page after dashboard\first page after dashboard\bin\Debug\first page after dashboard.exe
+G:\bca\sem2\technovation\first page after dashboard\first page after dashboard\bin\Debug\first page after dashboard.pdb
+G:\bca\sem2\technovation\first page after dashboard\first page after dashboard\bin\Debug\first page after dashboard.xml
+G:\bca\sem2\technovation\first page after dashboard\first page after dashboard\obj\x86\Debug\WindowsApplication2.Form1.resources
+G:\bca\sem2\technovation\first page after dashboard\first page after dashboard\obj\x86\Debug\WindowsApplication2.Resources.resources
+G:\bca\sem2\technovation\first page after dashboard\first page after dashboard\obj\x86\Debug\first page after dashboard.vbproj.GenerateResource.Cache
+G:\bca\sem2\technovation\first page after dashboard\first page after dashboard\obj\x86\Debug\first page after dashboard.exe
+G:\bca\sem2\technovation\first page after dashboard\first page after dashboard\obj\x86\Debug\first page after dashboard.xml
+G:\bca\sem2\technovation\first page after dashboard\first page after dashboard\obj\x86\Debug\first page after dashboard.pdb

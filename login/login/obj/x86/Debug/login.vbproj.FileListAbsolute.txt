@@ -1,0 +1,9 @@
+G:\bca\sem2\technovation\login\login\bin\Debug\login.exe
+G:\bca\sem2\technovation\login\login\bin\Debug\login.pdb
+G:\bca\sem2\technovation\login\login\bin\Debug\login.xml
+G:\bca\sem2\technovation\login\login\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\bca\sem2\technovation\login\login\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\bca\sem2\technovation\login\login\obj\x86\Debug\login.vbproj.GenerateResource.Cache
+G:\bca\sem2\technovation\login\login\obj\x86\Debug\login.exe
+G:\bca\sem2\technovation\login\login\obj\x86\Debug\login.xml
+G:\bca\sem2\technovation\login\login\obj\x86\Debug\login.pdb

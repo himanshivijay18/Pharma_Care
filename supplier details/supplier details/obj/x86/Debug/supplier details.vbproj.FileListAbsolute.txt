@@ -1,0 +1,9 @@
+G:\bca\sem2\technovation\supplier details\supplier details\bin\Debug\supplier details.exe
+G:\bca\sem2\technovation\supplier details\supplier details\bin\Debug\supplier details.pdb
+G:\bca\sem2\technovation\supplier details\supplier details\bin\Debug\supplier details.xml
+G:\bca\sem2\technovation\supplier details\supplier details\obj\x86\Debug\WindowsApplication2.Form1.resources
+G:\bca\sem2\technovation\supplier details\supplier details\obj\x86\Debug\WindowsApplication2.Resources.resources
+G:\bca\sem2\technovation\supplier details\supplier details\obj\x86\Debug\supplier details.vbproj.GenerateResource.Cache
+G:\bca\sem2\technovation\supplier details\supplier details\obj\x86\Debug\supplier details.exe
+G:\bca\sem2\technovation\supplier details\supplier details\obj\x86\Debug\supplier details.xml
+G:\bca\sem2\technovation\supplier details\supplier details\obj\x86\Debug\supplier details.pdb
